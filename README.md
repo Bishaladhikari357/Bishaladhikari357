@@ -1,3 +1,5 @@
+![logo](https://github.com/Bishaladhikari357/Bishaladhikari357/blob/main/git-Banner.png)
+
 <h1 align="center">Hi 👋, I'm Bishal Adhikari</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
